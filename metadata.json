@@ -1,0 +1,6 @@
+{
+  "name": "Portafolio Elio Gabriel",
+  "description": "Portafolio profesional de Elio Gabriel, Editor de Video & Creador de Contenido Estratégico con soporte para reproducción sin errores de videos horizontales y verticales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
