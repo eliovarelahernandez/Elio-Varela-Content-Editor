@@ -87,7 +87,7 @@ export default function Profile({ data }: ProfileProps) {
               </div>
 
               {/* Editable Social Handles */}
-              <div className="flex gap-2.5 pt-4">
+              <div className="flex gap-2.5 pt-4" >
                 {data.socials.instagram && (
                   <a
                     href={data.socials.instagram}

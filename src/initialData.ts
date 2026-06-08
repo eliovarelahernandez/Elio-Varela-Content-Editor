@@ -6,7 +6,7 @@
 import { PortfolioData } from './types';
 
 export const initialPortfolioData: PortfolioData = {
-  name: "Elio Gabriel",
+  name: "Elio Varela Hernández",
   role: "Editor de Video & Creador de Contenido Estratégico",
   yearsOfExperience: "3+",
   projectsCompleted: "80+",
@@ -16,13 +16,13 @@ export const initialPortfolioData: PortfolioData = {
   phone: "+5356880708",
   remoteAvailable: true,
   socials: {
-    instagram: "https://instagram.com/eliogabriel.edit",
-    youtube: "https://youtube.com/@eliogabriel",
-    linkedin: "https://linkedin.com/in/eliogabriel",
-    twitter: "https://twitter.com/eliogabriel"
+    instagram: "",
+    youtube: "https://www.youtube.com/@eliovarela_contenteditor",
+    linkedin: "",
+    twitter: ""
   },
   // High quality real cinematic short/vertical video
-  heroVerticalUrl: "https://www.youtube.com/shorts/cN1AxSmKkxY",
+  heroVerticalUrl: "https://www.youtube.com/shorts/eOEuEJcqLwQ",
   // High quality real epic drone/b-roll video
   heroHorizontalUrl: "https://www.youtube.com/watch?v=SYnfMAZ2buI",
   videos: [

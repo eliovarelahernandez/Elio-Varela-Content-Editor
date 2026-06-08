@@ -69,7 +69,7 @@ export default function Hero({ heroVerticalUrl, heroHorizontalUrl }: HeroProps) 
               transition={{ duration: 0.4, ease: "easeOut" }}
               className="text-sm sm:text-base md:text-lg text-indigo-400 font-medium flex items-center gap-2"
             >
-              <Sparkles className="w-4 h-4 text-indigo-300 fill-indigo-400/20" />
+              
               {rotatingWords[wordIndex]}
             </motion.div>
           </AnimatePresence>
@@ -96,10 +96,7 @@ export default function Hero({ heroVerticalUrl, heroHorizontalUrl }: HeroProps) 
                   </div>
                 )}
                 {/* Visual live label with flashing indicator */}
-                <div className="absolute top-3 left-3 z-10 flex items-center gap-1.5 px-2 py-0.5 rounded bg-[#020202]/70 backdrop-blur-md border border-white/5">
-                  <span className="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
-                  <span className="text-[8px] font-mono font-medium tracking-wider text-white">9:16 REELS</span>
-                </div>
+                
                 <div className="absolute inset-0 bg-gradient-to-t from-[#020202]/30 via-transparent to-transparent pointer-events-none z-10" />
               </div>
               <div className="phone-home"></div>
@@ -139,10 +136,7 @@ export default function Hero({ heroVerticalUrl, heroHorizontalUrl }: HeroProps) 
                     </div>
                   )}
                   {/* Visual live label & aspect */}
-                  <div className="absolute top-3 left-3 z-10 flex items-center gap-1.5 px-2 py-0.5 rounded bg-[#020202]/70 backdrop-blur-md border border-white/5">
-                    <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
-                    <span className="text-[8px] font-mono font-medium tracking-wider text-white">16:9 WIDE</span>
-                  </div>
+                 
                   <div className="absolute inset-0 bg-gradient-to-t from-[#020202]/30 via-transparent to-transparent pointer-events-none z-10" />
                 </div>
               </div>
