@@ -44,7 +44,7 @@ export default function Header({ onToggleEditor, isEditorOpen }: HeaderProps) {
               <Play className="w-4 h-4 text-white fill-white" />
             </div>
             <span className="text-sm font-semibold tracking-tight">
-              EG<span className="text-indigo-400">.</span>EDIT
+              EVH<span className="text-indigo-400">.</span>EDIT
             </span>
           </a>
 
@@ -62,12 +62,7 @@ export default function Header({ onToggleEditor, isEditorOpen }: HeaderProps) {
             >
               Videos
             </a>
-            <a 
-              href="#contactos"
-              className="relative after:absolute after:bottom-[-4px] after:left-0 after:w-0 after:h-[1px] after:bg-indigo-400 hover:after:w-full after:transition-all after:duration-300 text-[11px] font-medium tracking-widest uppercase text-white/60 hover:text-white transition-colors"
-            >
-              Contacto
-            </a>
+            
             <button style = {{display: 'none'}} 
               onClick={onToggleEditor}
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-[10px] font-medium tracking-widest uppercase border transition-all ${

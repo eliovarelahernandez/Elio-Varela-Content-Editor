@@ -106,7 +106,7 @@ export default function App() {
       />
 
       {/* Interactive lead contact form */}
-      <Contact />
+      
 
       {/* Universal Footer section */}
       <footer className="py-10 border-t border-white/[0.05] bg-black/40 px-6">
