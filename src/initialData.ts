@@ -31,7 +31,7 @@ export const initialPortfolioData: PortfolioData = {
       title: "Qué es la Programación Competitiva",
       description: "Edición dinámica con zooms de precisión, transiciones rápidas y resaltado de código en tiempo real para enganchar desarrolladores.",
       category: "programacion",
-      videoUrl: "https://www.youtube.com/watch?v=u6gSSpf0XX4",
+      videoUrl: "https://www.youtube.com/watch?v=rIyynCjVOis",
       duration: "08:24",
       tags: ["Premiere Pro", "After Effects", "Dynamic Code Zoom"]
     },
@@ -40,7 +40,7 @@ export const initialPortfolioData: PortfolioData = {
       title: "Por qué tu código es LENTO y cómo arreglarlo",
       description: "Contenido educativo de alto impacto con gráficos animados en After Effects y subtítulos súper dinámicos.",
       category: "programacion",
-      videoUrl: "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+      videoUrl: "https://www.youtube.com/shorts/_5g7bGxE17M",
       duration: "12:07",
       tags: ["Premiere", "After Effects", "Motion Graphics"]
     },
@@ -49,7 +49,7 @@ export const initialPortfolioData: PortfolioData = {
       title: "Cuánto músculo puedes ganar en un año",
       description: "Reel vertical sincronizado al ritmo de los beats con efectos de velocidad (speed ramps) y tipografías grandes.",
       category: "fitness",
-      videoUrl: "https://www.youtube.com/watch?v=v9C-I8A9_jU",
+      videoUrl: "https://www.youtube.com/watch?v=SYnfMAZ2buI",
       duration: "00:45",
       tags: ["CapCut Pro", "Premiere Pro", "Sound design"]
     },
@@ -58,7 +58,7 @@ export const initialPortfolioData: PortfolioData = {
       title: "Gimnasio vs Calistenia: El Veredicto Científico",
       description: "Edición tipo mini-documental de alta tensión, uso de esquemas de comparación visual y ritmo cinematográfico continuo.",
       category: "fitness",
-      videoUrl: "https://www.youtube.com/watch?v=_t6f6Zfco4g",
+      videoUrl: "https://www.youtube.com/watch?v=Hpytoip9BFc",
       duration: "10:15",
       tags: ["Premiere Pro", "DaVinci Color", "Documentary Style"]
     },
@@ -67,7 +67,7 @@ export const initialPortfolioData: PortfolioData = {
       title: "Análisis Táctico de las Semifinales — Champions League",
       description: "Desglose técnico de jugadas de fútbol con flechas animadas en After Effects, círculos de seguimiento y overlays de alta precisión.",
       category: "futbol",
-      videoUrl: "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      videoUrl: "https://www.youtube.com/shorts/U5WXcCNJU94",
       duration: "06:48",
       tags: ["Tactical Overlay", "After Effects", "Illustrator Tracking"]
     },
@@ -76,7 +76,7 @@ export const initialPortfolioData: PortfolioData = {
       title: "Mejores Goles de la Temporada — Edición Épica",
       description: "Recopilación con cámara lenta (optical flow), sincronización musical excelente y gradación de color dramática.",
       category: "futbol",
-      videoUrl: "https://www.youtube.com/watch?v=tTzK-HnlyS0",
+      videoUrl: "https://www.youtube.com/shorts/cN1AxSmKkxY",
       duration: "03:22",
       tags: ["Color Grading", "Cinematic Beats", "Slow-Motion Zoom"]
     },
@@ -85,7 +85,7 @@ export const initialPortfolioData: PortfolioData = {
       title: "Conversaciones que Importan — Episodio Especial",
       description: "Clips de alta retención recortados estratégicamente a partir de podcasts multi-cámara con zooms automáticos e incrustación de memes.",
       category: "podcast",
-      videoUrl: "https://www.youtube.com/watch?v=K4wG_S63M4E",
+      videoUrl: "https://www.youtube.com/shorts/sP9F7zO-fck",
       duration: "04:12",
       tags: ["Multicam Edit", "Speech Enhancement", "Engagement Hooks"]
     },
@@ -94,7 +94,7 @@ export const initialPortfolioData: PortfolioData = {
       title: "Estrategia para Escalar tu Startup este Año",
       description: "Video corporativo dinámico con infografías interactivas, material de archivo de primera y narración guiada.",
       category: "business",
-      videoUrl: "https://www.youtube.com/watch?v=V_Y7U986Kug",
+      videoUrl: "https://www.youtube.com/shorts/Yb8OAjoe9R0",
       duration: "05:40",
       tags: ["After Effects", "Stock Overlay", "Corporate Shimmer"]
     },

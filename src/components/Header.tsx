@@ -62,13 +62,13 @@ export default function Header({ onToggleEditor, isEditorOpen }: HeaderProps) {
             >
               Videos
             </a>
-            <a
-              href="#contacto"
+            <a 
+              href="#contactos"
               className="relative after:absolute after:bottom-[-4px] after:left-0 after:w-0 after:h-[1px] after:bg-indigo-400 hover:after:w-full after:transition-all after:duration-300 text-[11px] font-medium tracking-widest uppercase text-white/60 hover:text-white transition-colors"
             >
               Contacto
             </a>
-            <button
+            <button style = {{display: 'none'}} 
               onClick={onToggleEditor}
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-[10px] font-medium tracking-widest uppercase border transition-all ${
                 isEditorOpen
